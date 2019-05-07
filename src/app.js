@@ -1,9 +1,9 @@
 module.exports = {
   state: {
-    title: '@magic-client',
-    description: '@magic-client. tiny client side javascript @magic.',
-    logotext: '@magic-client',
+    title: '@magic-libraries',
+    description: '@magic-libraries. tiny client side javascript @magic.',
+    logotext: '@magic-libraries',
     logo: '/logo.png',
-    menu: [{ to: '/#magic-client', text: 'magic-client' }],
+    menu: [{ to: '/#magic-libraries', text: 'magic-libraries' }],
   },
 }
