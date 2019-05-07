@@ -4,13 +4,7 @@ module.exports = () => [
   p(
     'goal of the project is to keep the client boilerplate footprint minimal yet easily extendable',
   ),
-  GitBadges({
-    project: 'magic/core',
-    appveyor: 'jaeh/core',
-  }),
+  GitBadges('magic/core'),
 
-  h2({ id: 'magic-client' }, Link({ to: 'https://github.com/magic-client' }, '@magic-client')),
-  p('tiny client side javascript @magic.'),
-
-  ClientList,
+  LibraryList,
 ]
