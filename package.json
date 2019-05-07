@@ -1,5 +1,5 @@
 {
-  "name": "magic-client.github.io",
+  "name": "magic-libraries.github.io",
   "version": "0.23.5",
   "main": "index.js",
   "private": true,
@@ -17,14 +17,14 @@
     "publish": "magic publish"
   },
   "devDependencies": {
-    "@magic-modules/client-list": "github:magic-modules/client-list",
-    "@magic-modules/gitbadges": "github:magic-modules/gitbadges",
+    "@magic-modules/git-badges": "github:magic-modules/git-badges",
+    "@magic-modules/library-list": "github:magic-modules/library-list",
     "@magic-themes/docs": "github:magic-themes/docs",
     "@magic/core": "github:magic/core",
     "@magic/test": "0.0.12"
   },
   "author": "Wizards & Witches",
-  "description": "@magic-client github page.",
+  "description": "@magic-libraries github page.",
   "keywords": [
     "magic",
     "static",
