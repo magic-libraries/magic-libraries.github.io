@@ -1,14 +1,14 @@
 {
-  "css": "sha384-UFuHzkWBZt4bU5ieVxqRYiK7MsktSH9hOhUd6UaIXnzAl7JsIW4kKjrtXNNQMCnv",
-  "js": "sha384-R911I3JyBcs+LD+8vNKWs9qKp3alADHf0h3xBGE5GHIxA6TlVGOq5weu6woTi2c8",
+  "css": "sha384-oNLLwlD4P5Jmna/fDzeZDWSvLRIlYF7Js9RVBEcI6+VUfw4WbCqmfQR7kG3u5fyP",
+  "js": "sha384-wV7CC6O9eOPHOCLqFfTfJwrOS6inz3At4UqG98tV1nUH3SVoXm9jgpQbEzyGi8SQ",
   "pages": {
-    "/magic-libraries.github.io/": "sha384-p3q9LErf9Yx2IEWgEOVVxXwxq4SJHstyJDB9Ql1EcfPPOZG5Q1HO99A6Zp6VT2WU",
-    "/magic-libraries.github.io/404/": "sha384-l3DXKt4mNmYyWBwXbgPJ8oq8/cubTvyR9hGbgdAQKDegcq7oLTR7ZpFuZYc2bZ31"
+    "/magic-libraries.github.io/": "sha384-T7sS0eOtf1WZSTQ6YcN7fOlsAjlTbNKxlGfCLiS+mv5T3q5Y64U6nGIeA3vu9Jgx",
+    "/magic-libraries.github.io/404/": "sha384-O5PtYKhAczJZ9NSUHRZ4ZKGnzO+9Ai+voMfOPrk/7VdP2iI7si/7fbDLQQfNmvs1"
   },
   "static": {
     "/favicon.ico": "sha384-pf51ay6pZCj3+XlVCPmCKLDFpLj7QP+2heR+/n08WgS7Bve7JMkgubHOkwLzaTr+",
-    "/logo.png": "sha384-HYxw554gYy4PTVFMSplAr7DfrbBMkH8h2gaIQKzxzdaf/dQGht3P6kvTo7Iy1xaj",
+    "/logo.png": "sha384-us4OhGfbKl2FeBcaKUVfI2t1a2ZtgQHeYBKlcGxVIRcJAvQNwEf4l4mQVXxO1N79",
     "/robots.txt": "sha384-VnG9aO4HpFx5Nh9n0Ay4GkPxx900wYa5yebPdeFi4s5HUJqkuW+SftLIXnmK++bw",
-    "/sitemap.xml": "sha384-3h0SneMszGyVpFuoU7Msn8f/sgMaNuelmpRHy3KL6evLwr5Sa8wYrHkpUrqwkNdb"
+    "/sitemap.xml": "sha384-vj0sma/DlLJDqzsHZ+QlFgyohWYPh5fQ9PjqUrd/CJlpV76/aow960cxRFkqCKuQ"
   }
 }
