@@ -7,7 +7,7 @@
   "license": "AGPL-3.0",
   "homepage": "https://magic-libraries.github.io",
   "engines": {
-    "node": ">=12.2.0"
+    "node": ">=12.13.0"
   },
   "scripts": {
     "start": "t -p",
@@ -28,7 +28,7 @@
     "@magic-modules/light-switch": "github:magic-modules/light-switch",
     "@magic-themes/docs": "github:magic-themes/docs",
     "@magic/core": "github:magic/core",
-    "@magic/test": "0.1.12"
+    "@magic/test": "0.1.20"
   },
   "keywords": [
     "magic",
