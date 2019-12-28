@@ -9,4 +9,5 @@ export default {
 
   WEB_ROOT: '/',
   URL: 'magic-libraries.github.io',
+  HOIST: 'Gdpr',
 }
