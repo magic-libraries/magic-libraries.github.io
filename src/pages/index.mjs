@@ -7,6 +7,4 @@ export const View = state => [
   GitBadges('magic/core'),
 
   LibraryList(),
-
-  LightSwitch(state),
 ]
