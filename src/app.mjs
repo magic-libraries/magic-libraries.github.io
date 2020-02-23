@@ -12,6 +12,7 @@ export const state = {
         { to: '-li-gql', text: 'gql' },
         { to: '-li-is', text: 'is' },
         { to: '-li-json', text: 'json' },
+        { to: '-li-prevent-default', text: 'prevent default' },
         { to: '-li-uri', text: 'uri' },
       ],
     },
