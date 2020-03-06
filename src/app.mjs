@@ -5,7 +5,7 @@ export const state = {
   branding: ['@magic', '-libraries'],
 
   hero: {
-    title: '@magic-libs',
+    title: 'libraries',
     description: 'client side @magic',
 
     menu: [
