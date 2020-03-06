@@ -1,20 +1,49 @@
 export const state = {
   title: '@magic-libraries',
   description: '@magic-libraries. tiny client side javascript @magic.',
-  logotext: '@magic-libraries',
-  logo: '/logo.png',
-  menu: [
-    {
-      to: '/#gl-magic-libraries',
-      text: 'magic-libraries',
-      items: [
-        { to: '-li-db', text: 'db' },
-        { to: '-li-gql', text: 'gql' },
-        { to: '-li-is', text: 'is' },
-        { to: '-li-json', text: 'json' },
-        { to: '-li-prevent-default', text: 'prevent default' },
-        { to: '-li-uri', text: 'uri' },
+
+  branding: ['@magic', '-libraries'],
+
+  hero: {
+    title: '@magic-libs',
+    description: 'client side @magic',
+
+    menu: [
+      { to: '/#gl-magic-libraries-li-db', text: 'db' },
+      { to: '/#gl-magic-libraries-li-gql', text: 'graphql' },
+      { to: '/#gl-magic-libraries-li-is', text: 'types' },
+      { to: '/#gl-magic-libraries-li-json', text: 'json' },
+      { to: '/#gl-magic-libraries-li-prevent-default', text: 'preventDefault' },
+      { to: '/#gl-magic-libraries-li-uri', text: 'uri' },
+    ],
+  },
+
+  footer: {
+    one: {
+      title: '@magic',
+      before: ['client libraries', 'created by', 'Wizards & Witches'],
+    },
+
+    two: {
+      title: 'projects',
+      menu: [
+        { to: 'https://github.com/magic/', text: '@magic' },
+        { to: 'https://github.com/grundstein/', text: '@grundstein' },
+        { to: 'https://github.com/webboot/', text: '@webboot' },
       ],
     },
+
+    three: {
+      title: 'social',
+      menu: [
+        { to: 'https://npmjs.com/org/magic-libraries/', text: 'npm' },
+        { to: 'https://github.com/magic-libraries/', text: 'github' },
+      ],
+    },
+  },
+
+  menu: [
+    { to: '/', text: 'about' },
+    { to: '/#gl-magic-libraries', text: 'libraries' },
   ],
 }
