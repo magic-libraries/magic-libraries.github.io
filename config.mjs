@@ -1,13 +1,15 @@
 export default {
   ROOT: 'src',
+  PUBLIC: 'docs',
+
   GIT: {
     ORIGIN: 'origin',
     BRANCH: 'master',
   },
-  PUBLIC: 'docs',
-  THEME: 'docs',
+
+  THEME: 'project',
 
   WEB_ROOT: '/',
   URL: 'magic-libraries.github.io',
-  HOIST: ['Gdpr', 'LightSwitch'],
+  HOIST: ['LightSwitch', 'Gdpr'],
 }
