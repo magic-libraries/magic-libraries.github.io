@@ -4,6 +4,21 @@ export const state = {
 
   branding: ['@magic', '-libraries'],
 
+  seo: {
+    name: '@magic-libraries',
+    url: `https://magic-libraries.github.io/`,
+    about:
+      'magic is a jamstack generator. @magic-libraries are small packages of client functionality.',
+    image: `https://magic-examples.github.io/magic-libraries-preview.jpg`,
+    author: {
+      '@type': 'person',
+      name: 'Jascha Ehrenreich',
+      jobTitle: 'Technomancer',
+      image: 'https:/jaeh.at/img/jascha.ehrenreich.jpg',
+      url: 'https://jaeh.at',
+    },
+  },
+
   hero: {
     title: 'libraries',
     description: 'client side @magic',
