@@ -9,7 +9,7 @@ export const state = {
     url: `https://magic-libraries.github.io/`,
     about:
       'magic is a jamstack generator. @magic-libraries are small packages of client functionality.',
-    image: `https://magic-examples.github.io/magic-libraries-preview.jpg`,
+    image: `https://magic-libraries.github.io/magic-libraries-preview.jpg`,
     author: {
       '@type': 'person',
       name: 'Jascha Ehrenreich',
