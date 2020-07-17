@@ -12,4 +12,6 @@ export default {
   WEB_ROOT: '/',
   URL: 'magic-libraries.github.io',
   HOIST: ['LightSwitch', 'Gdpr'],
+
+  IGNORED_STATIC: 'xcf',
 }
