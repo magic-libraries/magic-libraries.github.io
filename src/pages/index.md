@@ -1,6 +1,6 @@
 <Hero state></Hero>
 
-<div>
+<div class="content">
 
 <AboutMagic></AboutMagic>
 
